@@ -1,0 +1,11 @@
+D:\microsoft issatso club\DBW2\bin\Debug\DBW2.exe.config
+D:\microsoft issatso club\DBW2\bin\Debug\DBW2.exe
+D:\microsoft issatso club\DBW2\bin\Debug\DBW2.pdb
+D:\microsoft issatso club\DBW2\obj\Debug\DBW2.csprojAssemblyReference.cache
+D:\microsoft issatso club\DBW2\obj\Debug\DBW2.Categorie.resources
+D:\microsoft issatso club\DBW2\obj\Debug\DBW2.Form1.resources
+D:\microsoft issatso club\DBW2\obj\Debug\DBW2.Produit.resources
+D:\microsoft issatso club\DBW2\obj\Debug\DBW2.Properties.Resources.resources
+D:\microsoft issatso club\DBW2\obj\Debug\DBW2.csproj.GenerateResource.cache
+D:\microsoft issatso club\DBW2\obj\Debug\DBW2.exe
+D:\microsoft issatso club\DBW2\obj\Debug\DBW2.pdb
